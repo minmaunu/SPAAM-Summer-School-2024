@@ -1,1 +1,1 @@
-# SPAAM-Summer-School-2024
+# SPAAM-Summer-School-2024Just an example repo
